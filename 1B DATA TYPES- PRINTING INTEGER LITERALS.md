@@ -1,29 +1,22 @@
 # Experiment No: 1B- Data Types – Printing Integer Literals
+# AIM
+To write a Python program to print the following integer and float literals: 10,3.14
 
-## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
+# ALGORITHM
+Begin the program. Initialize the integer literals 10. Initialize the float literals 3.14. Use the print() function to display the numbers 10 and 3.14 Terminate the program.
 
-## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
-
-## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
-
-num1 = 123
-num2 = 456
-num3 = 789
-
-print(num1)
-print(num2)
-print(num3)
-
+# PROGRAM
 ```
-## OUTPUT
+# Reg.No-212223060113
+# Name-Karnatam Bindu
 
-## RESULT
+a=int(input())
+b=float(input())
+print(a,b)
+```
+
+# OUTPUT
+<img width="1170" height="310" alt="image" src="https://github.com/user-attachments/assets/9452f389-bb37-4199-ad25-1cb0956502ee" />
+
+# RESULT
+The program successfully prints the integer and float literals 10,3.14.
