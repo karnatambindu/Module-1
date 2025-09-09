@@ -1,26 +1,31 @@
-# Experiment No: 1c-Varibles and Expressions, Operators - Adding Two Complex Numbers
+# Experiment No: 1C-Varibles and Expressions, Operators - using two values using all the relational operators
+# AIM
+To write a Python program for two values using all the relational operators (>,<,>=,<=,== ,!=).
 
-## AIM
-To write a Python program for adding two complex numbers, and get the user input using the `eval()` function.
+# ALGORITHM
+Start Assign values a = 13 and b = 33 Compare a and b using > , < , >= , <= , == , != Print the results of each comparison Stop
 
-## ALGORITHM
-1. Begin the program.
-2. Use the `eval()` function to get two complex numbers as input from the user.
-3. Print the complex numbers entered by the user.
-4. Perform the addition of the two complex numbers using the `+` operator.
-5. Print the sum of the two complex numbers.
-6. Terminate the program.
-
-## PROGRAM
-```python
-# Reg.No-
-#Name-
-#Write your code here
-
+# PROGRAM
+# Reg.No-212223060113
+# Name-Karnatam Bindu
 ```
+a = 13
+b = 33
+# a > b is False
+print(a > b)
+# a < b is True
+print(a < b)
+# a == b is False
+print(a == b)
+# a != b is True
+print(a != b)
+# a >= b is False
+print(a >= b)
+# a <= b is True
+print(a <= b)
+```
+# OUTPUT
+<img width="1196" height="353" alt="image" src="https://github.com/user-attachments/assets/0b736191-a84d-4bff-818c-4319796e90bc" />
 
-## OUTPUT
-
-
-## RESULT
-Thus the python program for  adding two complex numbers has been implemented and executed successfully.
+# RESULT
+Thus, the Python program for comparing two numbers using all relational operators is successfully executed and the above results are
